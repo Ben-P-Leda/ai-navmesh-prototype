@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavmeshAgent - 2017", "NavmeshAgent - 2017.csproj", "{0AA4B6B9-D42F-DDEA-0E85-0200A6461A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavmeshAgent - 2017.Editor", "NavmeshAgent - 2017.Editor.csproj", "{FD618D58-9116-1A58-51B2-62D92C2CC32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA4B6B9-D42F-DDEA-0E85-0200A6461A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA4B6B9-D42F-DDEA-0E85-0200A6461A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA4B6B9-D42F-DDEA-0E85-0200A6461A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA4B6B9-D42F-DDEA-0E85-0200A6461A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD618D58-9116-1A58-51B2-62D92C2CC32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD618D58-9116-1A58-51B2-62D92C2CC32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD618D58-9116-1A58-51B2-62D92C2CC32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD618D58-9116-1A58-51B2-62D92C2CC32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
